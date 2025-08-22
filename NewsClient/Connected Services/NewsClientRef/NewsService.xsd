@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/NewsService" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/NewsService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfNewsArticle">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="NewsArticle" nillable="true" type="tns:NewsArticle" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfNewsArticle" nillable="true" type="tns:ArrayOfNewsArticle" />
+  <xs:complexType name="NewsArticle">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Date" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="PostedBy" nillable="true" type="tns:Person" />
+      <xs:element minOccurs="0" name="Text" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Topic" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="NewsArticle" nillable="true" type="tns:NewsArticle" />
+  <xs:complexType name="Person">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Firstname" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Lastname" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Person" nillable="true" type="tns:Person" />
+  <xs:complexType name="Journalist">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:Person">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Affiliation" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Journalist" nillable="true" type="tns:Journalist" />
+</xs:schema>

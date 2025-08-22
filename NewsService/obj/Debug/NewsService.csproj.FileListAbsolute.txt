@@ -1,0 +1,15 @@
+D:\SEW\20221006\NewsService\NewsService\bin\Debug\NewsService.exe.config
+D:\SEW\20221006\NewsService\NewsService\bin\Debug\NewsService.exe
+D:\SEW\20221006\NewsService\NewsService\bin\Debug\NewsService.pdb
+D:\SEW\20221006\NewsService\NewsService\obj\Debug\NewsService.csproj.AssemblyReference.cache
+D:\SEW\20221006\NewsService\NewsService\obj\Debug\NewsService.csproj.SuggestedBindingRedirects.cache
+D:\SEW\20221006\NewsService\NewsService\obj\Debug\NewsService.csproj.CoreCompileInputs.cache
+D:\SEW\20221006\NewsService\NewsService\obj\Debug\NewsService.exe
+D:\SEW\20221006\NewsService\NewsService\obj\Debug\NewsService.pdb
+D:\5chint\SEW\NewsService\NewsService\bin\Debug\NewsService.exe.config
+D:\5chint\SEW\NewsService\NewsService\bin\Debug\NewsService.exe
+D:\5chint\SEW\NewsService\NewsService\bin\Debug\NewsService.pdb
+D:\5chint\SEW\NewsService\NewsService\obj\Debug\NewsService.csproj.AssemblyReference.cache
+D:\5chint\SEW\NewsService\NewsService\obj\Debug\NewsService.csproj.CoreCompileInputs.cache
+D:\5chint\SEW\NewsService\NewsService\obj\Debug\NewsService.exe
+D:\5chint\SEW\NewsService\NewsService\obj\Debug\NewsService.pdb

@@ -1,0 +1,15 @@
+D:\SEW\20221006\NewsService\NewsClient\obj\Debug\NewsClient.csproj.AssemblyReference.cache
+D:\SEW\20221006\NewsService\NewsClient\obj\Debug\NewsClient.csproj.SuggestedBindingRedirects.cache
+D:\SEW\20221006\NewsService\NewsClient\obj\Debug\NewsClient.csproj.CoreCompileInputs.cache
+D:\SEW\20221006\NewsService\NewsClient\bin\Debug\NewsClient.exe.config
+D:\SEW\20221006\NewsService\NewsClient\bin\Debug\NewsClient.exe
+D:\SEW\20221006\NewsService\NewsClient\bin\Debug\NewsClient.pdb
+D:\SEW\20221006\NewsService\NewsClient\obj\Debug\NewsClient.exe
+D:\SEW\20221006\NewsService\NewsClient\obj\Debug\NewsClient.pdb
+D:\5chint\SEW\NewsService\NewsClient\bin\Debug\NewsClient.exe.config
+D:\5chint\SEW\NewsService\NewsClient\bin\Debug\NewsClient.exe
+D:\5chint\SEW\NewsService\NewsClient\bin\Debug\NewsClient.pdb
+D:\5chint\SEW\NewsService\NewsClient\obj\Debug\NewsClient.csproj.AssemblyReference.cache
+D:\5chint\SEW\NewsService\NewsClient\obj\Debug\NewsClient.csproj.CoreCompileInputs.cache
+D:\5chint\SEW\NewsService\NewsClient\obj\Debug\NewsClient.exe
+D:\5chint\SEW\NewsService\NewsClient\obj\Debug\NewsClient.pdb
